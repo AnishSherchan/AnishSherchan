@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AnishSherchan
-- 👀 I’m interested in flight simmming and coding 
-- 🌱 I’m currently learning Bsc. IT (Hons)
-- 💞️ I’m looking to collaborate on any web dev and fluter applications
-- 📫 How to reach me (sherchananish11@gmail.com)
+- 👋 Hi, I’m AnishSherchan
+- 👀 I’m interested in flight simming and coding 
+- 🌱 I’m currently learning Bsc. IT (Hons) Nepal
+- 💞️ I’m looking to collaborate on any web dev and flutter applications
+- 📫 How to reach me (sherchananish11@gmail.com) 
 
 <!---
 AnishSherchan/AnishSherchan is a Bsc. it (hons) student special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
